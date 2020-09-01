@@ -6,6 +6,7 @@ namespace Padawan.Financeiro.Negocio
 {
     class Class2
     {
+        public String Nome  { get; set; }
         public int MyProperty { get; set; }
     }
 }
