@@ -9,7 +9,7 @@ namespace Padawan.Financeiro.Negocio
         public String Nome  { get; set; }
         public int MyProperty { get; set; }
 
-        public String Nome1 { get; set; }
+        public string Nome1 { get; set; }
         public int MyProperty1 { get; set; }
     }
 }
