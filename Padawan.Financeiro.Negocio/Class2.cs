@@ -1,11 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace Padawan.Financeiro.Negocio
 {
-    public class Class1
+    class Class2
     {
-
-
-
     }
 }
